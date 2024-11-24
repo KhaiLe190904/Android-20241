@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Khai"
+        android:orderInCategory="100"
+        android:title="Khair"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Huy"
+        android:orderInCategory="100"
+        android:title="Huy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Minh"
+        android:orderInCategory="100"
+        android:title="Minh"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/An"
+        android:orderInCategory="100"
+        android:title="An"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Dong"
+        android:orderInCategory="100"
+        android:title="Dong"
+        app:showAsAction="never" />
+</menu>
