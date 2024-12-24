@@ -11,7 +11,6 @@ import com.example.studentmanagement.model.Student
 import com.example.studentmanager2.R
 
 class RemoveStudentFragment : Fragment() {
-
     private var listener: StudentActionListener? = null
     private var position: Int = -1
     private lateinit var student: Student
